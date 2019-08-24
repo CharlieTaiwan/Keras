@@ -1,4 +1,4 @@
-# Keras
+# Learning-DL-by-keras
 參考線上學習資源，用Keras練習深度學習觀念。  
 
 ## 資料夾名稱
