@@ -1,5 +1,5 @@
 # Learning-DL-by-keras
-參考線上學習資源，用Keras練習深度學習觀念。  
+參考線上資源 ( <https://hiskio.com/courses/250> ) ，用Keras學習深度學習。  
 
 ## 資料夾名稱
 資料夾名稱代表內部檔案所使用的演算法 ( 包含延伸的演算法 ) 。   
