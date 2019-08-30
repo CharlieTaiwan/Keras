@@ -6,5 +6,5 @@
 Ex：GAN -> CGAN
 
 ## 檔案名稱
-演算法加上使用的資料。   
+演算法_資料。   
 Ex：CGAN_Mnist ( CGAN：演算法，Mnist：資料 )
